@@ -1,0 +1,12 @@
+{
+    "comilerOptions":{
+        "baseUrl":"./",
+        "path":{
+            "@/*":["src/*"]
+        }
+    },
+    "exclude":[
+        "node_modules",
+        "dist"
+    ]
+}
